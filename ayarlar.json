@@ -1,0 +1,9 @@
+{
+    "prefix": "Prefix Belirleyin",
+    "sahip": "yapımcı ID girin",
+    "surum": "0.1",
+    "token": "bot Token girin",
+    "GOOGLE_API_KEY":"Google API KEY girin",
+    "noPerms": ":x: Yetkin Yok."
+  }
+  
